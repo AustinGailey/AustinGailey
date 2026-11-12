@@ -10,9 +10,14 @@ Denver Metro, CO · [LinkedIn](https://www.linkedin.com/in/AustinGailey)
 |---|---|---|
 | [mcp-gateway](https://github.com/AustinGailey/mcp-gateway) | MCP proxy with single sign-on, role-based tool access, an audit log, a per-team cost ledger and OpenTelemetry traces | TypeScript, OIDC, Kubernetes |
 | [tokenwise](https://github.com/AustinGailey/tokenwise) | LLM cost gateway: prompt and response caching, a per-request savings ledger, one trace span per request | TypeScript, Cloudflare Workers, Hono, Next.js |
+| [runway](https://github.com/AustinGailey/runway) | Planner that launches headless coding agents under a token budget and lands their work through a merge train | Python |
+| [take-one-pipeline](https://github.com/AustinGailey/take-one-pipeline) | Multi-agent pipeline with supervised jobs, enforced write lanes and nine independent QA gates | Python |
+| [lodestar](https://github.com/AustinGailey/lodestar) | Reliability layer for agent-built software: journey registry, real-path checks, a release gate, and a ranked backlog agents claim work from | TypeScript, Python |
 | [claude-cost-engineering](https://github.com/AustinGailey/claude-cost-engineering) | Prompt caching as a team default: 58% lower per-call cost, 79% with batch | Skill, runbook, calculator |
 
-More on the way: a planner that runs coding agents under a token budget, and a multi-agent pipeline with independent QA gates.
+![Runway planner board](https://raw.githubusercontent.com/AustinGailey/runway/main/docs/hero.png)
+
+![Lodestar health dashboard](https://raw.githubusercontent.com/AustinGailey/lodestar/main/docs/hero.png)
 
 ## How I work
 
